@@ -7,4 +7,4 @@ https://rocky-sierra-03505.herokuapp.com/
 ## Display your list of to-do's
 Keep track of your list of items you need to complete. Once done, simply press the red 'X' to remove the item.
 
-![Home Interface](./images/edit.jpeg)
+![Home Interface](https://github.com/jtabba/Task-Tracker/blob/main/images/home.png)
